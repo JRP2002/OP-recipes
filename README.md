@@ -1,2 +1,2 @@
 # OP-recipes
-Odin Project - creating a recipe web
+Odin Project - creating a recipes web
